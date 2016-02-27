@@ -11,7 +11,7 @@
 ## Private
 
 * Github profile: [j3lte](https://github.com/j3lte)
-* NPM profile: [j3lte](https://www.npmjs.com/~jelte)
+* NPM profile: [j3lte](https://www.npmjs.com/~j3lte)
 * Website : http://jeltelagendijk.nl
 
 ![profile picture](https://github.com/lagendijk/contact/blob/master/profile.jpg)
